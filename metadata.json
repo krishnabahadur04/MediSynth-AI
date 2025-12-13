@@ -1,0 +1,5 @@
+{
+  "name": "MediSynth AI",
+  "description": "An AI-powered medical synthesis tool that analyzes patient documents, lab reports, and handwritten notes to generate comprehensive clinical summaries.",
+  "requestFramePermissions": []
+}
